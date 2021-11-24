@@ -10,7 +10,7 @@ using namespace std;
 const int rows=5;			//size of board
 const int columns=5;
 
-const int MaxShots=15;		//Max shots
+const int MaxShots=10;		//Max shots
 
 enum tileTypeEnum{			//Enum that helps define the type of a cell
 	sea='~',
