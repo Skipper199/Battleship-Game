@@ -1,2 +1,2 @@
-# Simple Battleship Game
- A simple Battleship Game were the user gets 15 tries to destroy all the ships.
+# Battleship Game
+ This project is part of the Computer Engineering and Informatics Department (CEID) of University of Patras Object-Oriented Programming course. It features a simple Battleship game were the user gets 15 tries to sink all the ships.
